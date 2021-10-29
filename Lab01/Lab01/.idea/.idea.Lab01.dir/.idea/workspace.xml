@@ -4,9 +4,7 @@
     <projectFile>Lab01.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dce4787-b1c1-45fd-9c9c-273f362a9631" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab01.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab01.dir/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dce4787-b1c1-45fd-9c9c-273f362a9631" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
       <updated>1632988047467</updated>
       <workItem from="1632988067683" duration="6000" />
       <workItem from="1634920216791" duration="38000" />
-      <workItem from="1635525840911" duration="43000" />
+      <workItem from="1635525840911" duration="164000" />
     </task>
     <servers />
   </component>
