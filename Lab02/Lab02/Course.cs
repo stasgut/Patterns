@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Lab02
 {
-    public class Course
+    public abstract class Course
     {
         public string name { get; set; }
         public DateTime date { get; set; }
@@ -24,14 +24,10 @@ namespace Lab02
         
         private List<Student> _students = new List<Student>();
 
-        public void AddStudent(Student student)
-        {
-            _students.Add(student);
-        }
+        public abstract void AddStudent(Student student);
 
-        public void RemoveStudent(Student student)
-        {
-            _students.Remove(student);
-        }
+        public abstract void RemoveStudent(Student student);
+
+        public abstract void SendCourseMaterials(Group group, string materials);
     }
 }
